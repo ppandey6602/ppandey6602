@@ -1,4 +1,4 @@
-![logo](https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif)
+![logo](<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/3ov9k1J6jahVhiev0Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/marvelstudios-3ov9k1J6jahVhiev0Q">via GIPHY</a></p>)
 <h1 align="center">Hi 👋, I'm Prateek Pandey</h1>
 <h3 align="center">A passionate AI&ML enthusiast and Web Developer from India</h3>
 
