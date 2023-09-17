@@ -1,4 +1,4 @@
-![logo](https://github.com/ppandey6602/ppandey6602/blob/main/Prateek%20Banner.png)
+![logo](https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif)
 <h1 align="center">Hi 👋, I'm Prateek Pandey</h1>
 <h3 align="center">A passionate AI&ML enthusiast and Web Developer from India</h3>
 
